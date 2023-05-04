@@ -10,13 +10,13 @@ This implementation of the Huffman Compression Algorithm explores the intricacie
 ## Contents:
 This repository contains the files:
 
-'file_compressor.adb': This Ada reads the input file and performs a Huffman compression algorithm on its content. This involves creating a Frequency table from the contents of the input file and using that to build a Huffman Tree. The Huffman Code is derived from this tree, which is then used to encode the original input string into a Huffman encoded string which is written into "output.txt".
+**'file_compressor.adb':** This Ada reads the input file and performs a Huffman compression algorithm on its content. This involves creating a Frequency table from the contents of the input file and using that to build a Huffman Tree. The Huffman Code is derived from this tree, which is then used to encode the original input string into a Huffman encoded string which is written into "output.txt".
 
-'write_to_binary.cpp': This simple C++ program writes the contents of "output.txt" into the binary file "output.bin".
+**'write_to_binary.cpp':** This simple C++ program writes the contents of "output.txt" into the binary file "output.bin".
 
-'input.txt': Write anything into this file to change input.
+**'input.txt':** Write anything into this file to change input.
 
-'output.txt': container for the huffman encoded message.
+**'output.txt':** container for the huffman encoded message.
 
-'output.bin': container for the binary huffman encoded message.
+**'output.bin':** container for the binary huffman encoded message.
 
