@@ -1,7 +1,8 @@
 # Huffman_File_Compressor
 This program showcases an implementation of a Huffman compression algorithm computed in Ada.
 
-![image](https://user-images.githubusercontent.com/105825537/236345794-c033410a-d957-42d2-99c4-a0a3d01a4e70.png)
+![image](https://user-images.githubusercontent.com/105825537/236346037-37293dee-9139-45b5-8048-ac626e210c03.png)
+![image](https://user-images.githubusercontent.com/105825537/236346136-df438852-4b26-4468-abff-963b8da6f4e3.png)
 
 ## How It's Made:
 
