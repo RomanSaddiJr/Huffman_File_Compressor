@@ -8,7 +8,7 @@ This program showcases an implementation of a Huffman compression algorithm comp
 
 **Tools used:** Ada, C++
 
-This implementation of the Huffman Compression Algorithm explores the intricacies of Ada in comparison to other high leveled programming langauges through the development of a compression algorithm. This project in particular heavilty utilizes Ada's 'Strong Typing' and explicit type conversions, as well as Ada's built-in priority queue and interface packages.
+This implementation of the Huffman Compression Algorithm explores the intricacies of Ada relative to other high leveled programming langauges through the development of a compression algorithm. This project in particular heavily utilizes Ada's 'Strong Typing' and explicit type conversions, as well as Ada's built-in priority queue and interface packages.
 
 ## Contents:
 This repository contains the files:
