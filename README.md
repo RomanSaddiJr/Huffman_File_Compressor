@@ -23,3 +23,11 @@ This repository contains the files:
 
 **'output.bin':** container for the binary huffman encoded message.
 
+## How to run:
+Simply run the file **'file_compressor.adb'** to encode the contents of **'input.txt'** and have it stored in **'output.txt'**.
+The binary encoded message will now be visible from there.
+
+To witness the complete Huffman File Compression, you can then run the file **'write_to_binary.cpp'** to store the contents of **'output.txt'** into an actual binary file **'output.bin'**. The file **'output.bin'** contains the compressed data.
+
+Reverse functions **Decode()** and **readBinary()** exist in both **'file_compressor.adb'** and **'write_to_binary.cpp'**, which can do the opposite of the active functions **Encode()** and **toBinary()**.
+
